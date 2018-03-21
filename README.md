@@ -1,4 +1,4 @@
-# GankenKun_0_4_dxf
+# GankenKun_0_5_dxf
 
 These are dxf data to build the GankenKun0_5.  
 Please be careful as it is different from GankenKun1_0.  
