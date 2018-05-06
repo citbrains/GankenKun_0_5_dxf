@@ -453,19 +453,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2458196.507728206
+2458246.038079144
   9
 $TDUUPDATE
  40
-2458196.132728206
+2458245.663079144
   9
 $TDINDWG
  40
-0.0014848727
+0.0029357523
   9
 $TDUSRTIMER
  40
-0.0000943981
+0.0005586227
   9
 $USRTIMER
  70
@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-5B1
+5FF
   9
 $SURFTAB1
  70
@@ -1089,9 +1089,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-127.2693849678536
+-54.32130020989791
  22
-234.0067399706111
+147.2218338331477
  13
 0.0
  23
@@ -1117,9 +1117,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-185.0512385834888
+289.1425602867012
  41
-2.111409395973154
+2.479430379746836
  42
 50.0
  43
@@ -19015,6 +19015,520 @@ AcDbPolyline
  20
 240.1
   0
+CIRCLE
+  5
+5E5
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+126.6
+ 20
+259.7
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5E6
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+126.6
+ 20
+259.7
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5E7
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+126.6
+ 20
+259.7
+ 30
+0.0
+ 40
+5.5
+  0
+CIRCLE
+  5
+5E8
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+139.7
+ 20
+259.7
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5E9
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+139.7
+ 20
+259.7
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5EA
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+139.7
+ 20
+259.7
+ 30
+0.0
+ 40
+5.5
+  0
+CIRCLE
+  5
+5EB
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+152.8000000000001
+ 20
+259.7
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5EC
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+152.8000000000001
+ 20
+259.7
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5ED
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+152.8000000000001
+ 20
+259.7
+ 30
+0.0
+ 40
+5.5
+  0
+CIRCLE
+  5
+5EE
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+126.6
+ 20
+246.6
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5EF
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+126.6
+ 20
+246.6
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5F0
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+126.6
+ 20
+246.6
+ 30
+0.0
+ 40
+5.5
+  0
+CIRCLE
+  5
+5F1
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+139.7
+ 20
+246.6
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5F2
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+139.7
+ 20
+246.6
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5F3
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+139.7
+ 20
+246.6
+ 30
+0.0
+ 40
+5.5
+  0
+CIRCLE
+  5
+5F4
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+152.8000000000001
+ 20
+246.6
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5F5
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+152.8000000000001
+ 20
+246.6
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5F6
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+152.8000000000001
+ 20
+246.6
+ 30
+0.0
+ 40
+5.5
+  0
+CIRCLE
+  5
+5F7
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+165.9000000000001
+ 20
+259.7
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5F8
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+165.9000000000001
+ 20
+259.7
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5F9
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+165.9000000000001
+ 20
+259.7
+ 30
+0.0
+ 40
+5.5
+  0
+CIRCLE
+  5
+5FA
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+165.9000000000001
+ 20
+246.6
+ 30
+0.0
+ 40
+1.55
+  0
+CIRCLE
+  5
+5FB
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+165.9000000000001
+ 20
+246.6
+ 30
+0.0
+ 40
+2.499999999999999
+  0
+CIRCLE
+  5
+5FC
+330
+1D
+100
+AcDbEntity
+  8
+Visible (ISO)
+100
+AcDbCircle
+ 10
+165.9000000000001
+ 20
+246.6
+ 30
+0.0
+ 40
+5.5
+  0
+LWPOLYLINE
+  5
+5FD
+330
+1D
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+120.1
+ 20
+266.2
+ 10
+120.1
+ 20
+240.1
+ 10
+172.4
+ 20
+240.1
+ 10
+172.4
+ 20
+266.2
+  0
 ENDSEC
   0
 SECTION
@@ -19073,7 +19587,7 @@ APPDATA
   3
 DWGPROPS
 350
-5B0
+5FE
   0
 DICTIONARY
   5
@@ -19405,7 +19919,7 @@ AcDbDictionary
   0
 XRECORD
   5
-5B0
+5FE
 102
 {ACAD_REACTORS
 330
@@ -19459,7 +19973,7 @@ haya
  41
 2447892.625
  42
-2458196.132728206
+2458245.663079144
   1
 
  90
