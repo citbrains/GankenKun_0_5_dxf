@@ -1,7 +1,7 @@
 # GankenKun_0_5_dxf
 
 These are dxf data to build the GankenKun0_5.  
-Whole data is uploaded at the following link.
+Whole data is uploaded at the following link.  
 https://drive.google.com/drive/folders/1MPX7UfYt407ae0ZRPSJ1yyM6eOXCrdIO?usp=sharing
 
 Please be careful as it is different from GankenKun1_0.  
